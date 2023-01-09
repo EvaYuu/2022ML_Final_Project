@@ -8,9 +8,8 @@ To train the model in the project, download the data [here](https://www.kaggle.c
 
 /ML_FP
 
-├── train.ipynb
-
-├── data
+|-- train.ipynb
+|-- data
 
 │   ├── train.csv
 
