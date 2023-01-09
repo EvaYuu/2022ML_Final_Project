@@ -7,6 +7,7 @@ This repository is the official implementation of my final project for 111 Fall 
 To train the model in the project, download the data [here](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022) and the train.ipynb python notebook, then upload this directory structure to your google cloud:
 
 /ML_FP
+
 ├── train.ipynb
 
 ├── data
@@ -25,12 +26,19 @@ Remember to authorize the permission request.
 To reproduce the result, do the same thing as training step, furthermore download the inference.ipynb and the pre-trained model from link below:
 
 /ML_FP
+
 ├── train.ipynb
+
 ├── inference.ipynb
+
 ├── my_model.h5
+
 ├── data
+
 │   ├── train.csv
+
 │   ├── test.csv
+
 │   ├── sample_submission.csv
 
 
