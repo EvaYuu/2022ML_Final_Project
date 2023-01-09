@@ -22,7 +22,7 @@ Remember to authorize the permission request.
 
 To reproduce the result, do the same thing as training step, furthermore download the inference.ipynb and the pre-trained model from link below:
 
-/ML_FP
+    /ML_FP
     ├── train.ipynb
     ├── inference.ipynb
     ├── my_model.h5
