@@ -17,6 +17,11 @@ To train the model in the project, download the data [here](https://www.kaggle.c
 
 │   ├── sample_submission.csv
 
+├─catboost_info
+│  ├─learn│  ├─test
+│  └─tmp
+└─data
+
 Open the train.ipynb with Google Colab and click run all.
 Remember to authorize the permission request.
 
