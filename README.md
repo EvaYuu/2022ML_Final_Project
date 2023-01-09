@@ -8,9 +8,13 @@ To train the model in the project, download the data [here](https://www.kaggle.c
 
 /ML_FP
 ├── train.ipynb
+
 ├── data
+
 │   ├── train.csv
+
 │   ├── test.csv
+
 │   ├── sample_submission.csv
 
 Open the train.ipynb with Google Colab and click run all.
