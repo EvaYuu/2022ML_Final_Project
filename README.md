@@ -1,6 +1,6 @@
 # 2022ML_Final_Project
 
-This repository is the official implementation of my final prjoject for 111 Fall Introduction to Machine Learning. 
+This repository is the official implementation of my final project for 111 Fall Introduction to Machine Learning. 
 
 ## Training
 
